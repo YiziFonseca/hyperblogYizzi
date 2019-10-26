@@ -16,3 +16,8 @@ body{
 #container h1{
     font-size: 20px;
 }
+#Cola {
+    color: black;
+    text-align: left;
+    width: 150px;
+}
