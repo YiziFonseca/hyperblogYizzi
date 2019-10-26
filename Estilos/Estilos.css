@@ -16,15 +16,14 @@ body{
 #container h1{
     font-size: 20px;
 }
-<<<<<<< HEAD
+
 #Cola {
     color: black;
     text-align: left;
     width: 150px;
-=======
+}
 #Cabecera {
     color: darkblue;
     text-align: center;
     font-family: cursive;
->>>>>>> Cabecera
 }
