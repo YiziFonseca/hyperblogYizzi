@@ -7,5 +7,3 @@
 # HyperBlog Yizzi
 
 *Los grandes proyectos fueron sueños que pasaron al mundo real con esfuerzo y dedicación.*
-
-###End
